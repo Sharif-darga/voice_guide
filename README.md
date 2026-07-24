@@ -70,7 +70,7 @@ Acknowledgements
 
 Assembly AI
 
-ElevenLabs
+ElevenLabs.
 
 
 Replace "yourusername" in the GitHub URL and add a requirements.txt file if needed.
